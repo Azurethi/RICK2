@@ -1,0 +1,19 @@
+{
+  "name": "yimp",
+  "version": "1.0.0",
+  "description": "Yolol import",
+  "main": "src/YIMP.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Azurethi/Yimp.git"
+  },
+  "author": "Azurethi",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "google-spreadsheet": "^3.1.15",
+    "xlsx": "^0.17.0"
+  }
+}

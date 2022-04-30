@@ -1,0 +1,1 @@
+npm i && npm i node-gyp --global && git submodule update --init && cd src/native && node-gyp configure && node-gyp build && cd ../..
