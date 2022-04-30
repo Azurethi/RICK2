@@ -1,6 +1,6 @@
-# YIMP (aka RICK)
-Yolol import : Define complex yolol systems in less code & easily import them in to starbase!
+# RICK
 
+Create yolol systems programmatically :)
 
 ## How do I use this?
 
